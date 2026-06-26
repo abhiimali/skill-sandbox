@@ -73,3 +73,8 @@ check status PAY-0001
 ```text
 Done. Your payment of INR 870.0 from account 101 to account 999 was successful. Payment ID: PAY-0001.
 ```
+
+## Sample Output 
+
+<img width="921" height="391" alt="image" src="https://github.com/user-attachments/assets/42df92e2-1263-48da-a82b-7022fbd4c4fa" />
+
